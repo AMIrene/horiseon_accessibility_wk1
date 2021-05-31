@@ -39,7 +39,7 @@ THEN I find a concise, descriptive title
 
 11. Justified paragraphs in benefits side bar for cleaner look
 
-## Link to deployed landing page: https://amirene.github.io/Horiseon_WK1/
+## Link to deployed landing page: https://amirene.github.io/horiseon_accessibility_wk1/
 ## Link to deployed landing page screen shot: 
      
   ![ScreenShot](/assets/deployed_page_screenshot.png)
